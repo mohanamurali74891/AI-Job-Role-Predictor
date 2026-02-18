@@ -1,0 +1,3 @@
+cd OneDrive\Desktop\job_role_predictor
+
+python -m streamlit run app.py
